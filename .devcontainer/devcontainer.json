@@ -4,8 +4,9 @@
     "customizations": {
       "vscode": {
         "extensions": [
-          "ritwickdey.LiveServer",
-            "vscode-icons-team.vscode-icons"
+            "ritwickdey.LiveServer",
+            "vscode-icons-team.vscode-icons",
+            "shakram02.bash-beautify"
         ]
       }
     }
